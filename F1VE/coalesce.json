@@ -1,0 +1,16 @@
+{
+  "webProject": {
+    "projectFile": "./SzyCo.F1VE.Web/SzyCo.F1VE.Web.csproj"
+  },
+  "dataProject": {
+    "projectFile": "./SzyCo.F1VE.Data/SzyCo.F1VE.Data.csproj"
+  },
+
+  "rootGenerator": "Vue",
+
+  "generatorConfig": {
+    "Scripts": {
+      "targetDirectory": "../src"
+    }
+  }
+}
